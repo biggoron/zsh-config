@@ -1,7 +1,7 @@
-[submodule "/home/dan/.oh-my-zsh/custom/themes/powerlevel9k"]
+[submodule "custom/themes/powerlevel9k"]
 	path = custom/themes/powerlevel9k
 	url = https://github.com/bhilburn/powerlevel9k.git
-[submodule "custom/plugins/custom/plugins/zsh-autosuggestions"]
+[submodule "custom/plugins/zsh-autosuggestions"]
 	path = custom/plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
 [submodule "custom/plugins/zsh-syntax-highlighting"]
